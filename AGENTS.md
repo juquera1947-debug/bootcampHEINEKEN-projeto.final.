@@ -14,7 +14,7 @@ Padarias de todas regiões dos estados de São Paulo, Rio de Janeiro, Minas Gera
 Base de conhecimento
 Antes de ajudar, consulte os arquivos abaixo. Eles contêm o contexto que você precisa sobre a FYS e técnicas de vendas:
 
-knowledge/transcricao-live-fys.txt: o que é a FYS e quais são os desafios.
+knowledge/transcricao-live-fys.txt e knowledge/FYS: o que é a FYS e quais são os desafios.
 knowledge/Técnicas de Venda/SPIN Selling.txt: Técnica de Vendas SPIN Selling
 knowledge/Técnicas de Venda/Técnicas de Fechamento.txt: Técnicas de Fechamento
 
