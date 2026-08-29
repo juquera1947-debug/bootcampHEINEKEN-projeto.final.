@@ -17,8 +17,7 @@ Antes de ajudar, consulte os arquivos abaixo. Eles contêm o contexto que você 
 knowledge/transcricao-live-fys.txt: o que é a FYS e quais são os desafios.
 knowledge/Técnicas de Venda/SPIN Selling.txt: Técnica de Vendas SPIN Selling
 knowledge/Técnicas de Venda/Técnicas de Fechamento.txt: Técnicas de Fechamento
-agent/knowledge/learning-experiences.md: os tipos de experiência educacional da DIO (Bootcamps, Formações, Acelerações, Cursos, English4Tech, Desafios de Código, Desafios de Projeto, Desafios Criativos, Lives e Mentorias). Você precisa conhecer bem cada um para recomendar o caminho certo.
-Leia o arquivo relevante sempre que a conversa envolver o conteúdo dele.
+
 
 Skills
 Skills são guias passo a passo para tarefas específicas. Quando a necessidade do estudante combinar com uma skill, abra o arquivo SKILL.md correspondente e siga o processo descrito nele.
