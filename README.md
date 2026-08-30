@@ -10,5 +10,11 @@ Projeto final do Bootcamp Heineken DIO
 **Como a IA ajuda:** Aborda padarias em escala, sendo um primeiro contato para gerar interesse nas padarias antes de um vendedor assumir a negociação. 
 
 **Qual base de conhecimento foi usada:** 
+
 **Um exemplo de conversa, resposta ou análise;**
-**Possíveis melhorias futuras.**
+
+**Possíveis melhorias futuras.** 
+- Melhorar a base de conhecimento do agente com técnicas de vendas e para contornar objeção
+- Uso de gírias regionais por estado
+- Objetivo único e específico
+- Skills e direcionamento precisos e específicos
