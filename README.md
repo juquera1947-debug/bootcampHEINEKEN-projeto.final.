@@ -1,16 +1,12 @@
 # bootcampHEINEKEN-projeto.final.
 Projeto final do Bootcamp Heineken DIO
 
-**Desafio Escolhido:** Agente comercial de prospecção de padarias
-
-**Quem usaria sua solução:** Representantes de vendas. 
-
-**Qual problema ela resolve:** Podem prospectar padarias com a IA enquanto enquanto continuam trabalhando com seus produtos de preferências. Assim, podem focar em oportunidades já qualificadas e aquecidas pela IA.
-
+**Tema:** Vendas
+**Quem usaria sua solução:** Representantes de vendas 
+**Qual problema ela resolve:** Podem prospectar padarias com a IA enquanto enquanto continuam trabalhando com seus produtos de preferência. Assim, podem focar em oportunidades já qualificadas e aquecidas pela IA.
 **Como a IA ajuda:** Aborda padarias em escala, sendo um primeiro contato para gerar interesse nas padarias antes de um vendedor assumir a negociação. 
-
-**Qual base de conhecimento foi usada:** 
-
+**Abordagem:** Chatbot/agente
+**Qual base de conhecimento foi usada:** Transcrição da live, informações da FYS na internet, SPIN Selling, técnicas de objeções e técnicas de fechamento
 **Um exemplo de conversa, resposta ou análise;**
 
 **Usuário:** Quem é você?
@@ -100,7 +96,7 @@ Qualquer dúvida ou quando precisar reabastecer a geladeira, é só chamar. Um a
 
 
 **Possíveis melhorias futuras.** 
-- Melhorar a base de conhecimento do agente com técnicas de vendas e para contornar objeção
+- Melhorar a base de conhecimento do agente com técnicas de vendas e para contornar objeções
 - Uso de gírias regionais por estado
 - Objetivo único e específico
-- Skills e direcionamento precisos e específicos
+- Skills e direcionamento precisos e específicos em determinadas situações/contextos
